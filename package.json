@@ -1,0 +1,22 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoneWasting/dice-game.git"
+  },
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoneWasting/dice-game/issues"
+  },
+  "homepage": "https://Donewasting.github.io/dice-game",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
